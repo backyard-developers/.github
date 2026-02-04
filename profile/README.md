@@ -60,7 +60,7 @@ Real-time WebSocket backend server for rover command routing and media streaming
 
 **Tech Stack:** TypeScript, Node.js, Redis
 
-![Dashboard Rover Control Example](doc/gif/dashboard_rover_control_example.gif)
+![Dashboard Rover Control Example](../doc/gif/dashboard_rover_control_example.gif)
 
 ---
 
@@ -70,4 +70,4 @@ Android application for controlling a rover based on Arduino via USB serial.
 
 **Tech Stack:** Kotlin, Jetpack Compose, CameraX, WebRTC
 
-![Rover Movement Test Bridge](doc/gif/rover_movement_test_bridge.gif)
+![Rover Movement Test Bridge](../doc/gif/rover_movement_test_bridge.gif)
