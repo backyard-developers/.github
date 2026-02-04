@@ -58,7 +58,7 @@ A real-time rover control platform for Android-based rover clients. The system e
 
 ## Repositories
 
-### [atrover-backend](/atrover-backend)
+### [atrover-backend](https://github.com/backyard-developers/atrover-backend)
 
 Real-time WebSocket backend server for rover command routing and media streaming.
 
@@ -66,7 +66,7 @@ Real-time WebSocket backend server for rover command routing and media streaming
 
 ---
 
-### [atrover-client](/atrover-client)
+### [atrover-client](https://github.com/backyard-developers/atrover-client)
 
 Android application for controlling a rover based on Arduino via USB serial.
 
