@@ -2,6 +2,10 @@
 
 A real-time rover control platform for Android-based rover clients. The system enables remote operators to control rovers via a web dashboard while receiving live video and audio feeds.
 
+![Dashboard Rover Control Example](../doc/gif/dashboard_rover_control_example.gif)
+
+![Rover Movement Test Bridge](../doc/gif/rover_movement_test_bridge.gif)
+
 ## Architecture Overview
 
 ```
@@ -60,8 +64,6 @@ Real-time WebSocket backend server for rover command routing and media streaming
 
 **Tech Stack:** TypeScript, Node.js, Redis
 
-![Dashboard Rover Control Example](../doc/gif/dashboard_rover_control_example.gif)
-
 ---
 
 ### [atrover-client](/atrover-client)
@@ -69,5 +71,3 @@ Real-time WebSocket backend server for rover command routing and media streaming
 Android application for controlling a rover based on Arduino via USB serial.
 
 **Tech Stack:** Kotlin, Jetpack Compose, CameraX, WebRTC
-
-![Rover Movement Test Bridge](../doc/gif/rover_movement_test_bridge.gif)
