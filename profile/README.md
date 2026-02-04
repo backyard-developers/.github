@@ -4,7 +4,7 @@ A real-time rover control platform for Android-based rover clients. The system e
 
 ![Dashboard Rover Control Example](../doc/gif/dashboard_rover_control_example.gif)
 
-![Rover Movement Test Bridge](../doc/gif/rover_movement_test_bridge.gif)
+![Rover Movement Test Bridge](../doc/gif/rover_movement_test_bridge_short.gif)
 
 ## Architecture Overview
 
